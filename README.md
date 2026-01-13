@@ -1,4 +1,4 @@
-%mermaid
+```mermaid
 gantt
     title ICTU – Timeline Cuộc thi 2026 (Draft Gantt v1)
     dateFormat  YYYY-MM-DD
