@@ -26,18 +26,18 @@ gantt
     Triển lãm Mỹ thuật Tây Bắc (3 đợt) – 15M VNĐ  :nttt3, 2026-04-01, 2026-09-30
 
     %% --- Tooltip mapping ---
-    click cntt1 "Ổn huyện, kinh phí đi lại, tham dự"
-    click cntt2 "Ổn huyện, kinh phí đi lại, tham dự"
-    click cntt3 "Ổn huyện, kinh phí đi lại, tham dự"
+    click cntt1 "KP: ôn luyện, tham dự, công tac phí"
+    click cntt2 "KP: ôn luyện, tham dự, công tac phí"
+    click cntt3 "KP: ôn luyện, tham dự, công tac phí"
     click cntt4 "Mời chuyên gia; hướng dẫn; lưu trú & CT phí"
-    click cntt5 "Ổn huyện, kinh phí đi lại, tham dự"
-    click cntt6 "Ổn huyện, kinh phí đi lại, tham dự"
+    click cntt5 "KP: ôn luyện, tham dự, công tac phí"
+    click cntt6 "KP: ôn luyện, tham dự, công tac phí"
     click ktcn1 "Mời chuyên gia; mua thiết bị; lưu trú & CT phí"
-    click ktcn2 "Ổn huyện, tham dự"
-    click ktqt1 "Ổn huyện, tham dự"
-    click nttt1 "Ổn huyện, tham dự (3 đợt)"
-    click nttt2 "Ổn huyện, tham dự (2 đợt)"
-    click nttt3 "Ổn huyện, tham dự (3 đợt)"
+    click ktcn2 "Phí tham dự, công tac phí"
+    click ktqt1 ""Phí tham dự, công tac phí""
+    click nttt1 ""Phí tham dự, công tac phí: 3 đợt" 
+    click nttt2 ""Phí tham dự, công tac phí: 2 đợt"
+    click nttt3 ""Phí tham dự, công tac phí: 3 đợt"
 
     %% --- Color coding by faculty ---
     classDef cntt fill:#0077CC,stroke:#004B80,color:#fff
