@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title ICTU – Kế hoạch Tham dự Cuộc thi 2026 (PMO v3 – có kinh phí trên bar)
+    title ICTU: KẾ HOẠCH TỔ CHỨC ÔN LUYỆN VÀ THAM DỰ CÁC CUỘC THI NĂM 2026
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%y
     excludes    weekends
