@@ -1,5 +1,5 @@
 ```mermaid
-%%{init: {'gantt': {'barHeight': 50, 'barGap': 12}}}%%
+%%{init: {'gantt': {'barHeight': 35, 'barGap': 10}}}%%
 gantt
     title ICTU: KẾ HOẠCH TỔ CHỨC ÔN LUYỆN VÀ THAM DỰ CÁC CUỘC THI NĂM 2026
     dateFormat  YYYY-MM-DD
