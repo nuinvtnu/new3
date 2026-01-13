@@ -1,5 +1,6 @@
 ```mermaid
-    gantt ateFormat  YYYY-MM-DD
+    gantt
+    DateFormat  YYYY-MM-DD
     axisFormat  %m/%y
     excludes    weekends
 
