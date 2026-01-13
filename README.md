@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title ICTU Competitions 2026 – Gantt Chart (Draft)
+    title ICTU: KẾ HOẠCH TỔ CHỨC CÁC CUỘC THI NĂM 2026
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%y
     excludes    weekends
