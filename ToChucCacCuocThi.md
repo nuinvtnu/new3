@@ -20,7 +20,7 @@ gantt
     %% KHOA KT&CN
     %% =======================
     section Khoa KT&CN
-    Robot VN, Robocon Châu Á – 360M VNĐ     :crit, ktcn1, 2026-08-01, 2026-11-30
+    Robot VN Robocon Châu Á – 360M VNĐ     :crit, ktcn1, 2026-08-01, 2026-11-30
     Thiết kế máy tự động hóa – 5M VNĐ        :ktcn2, 2026-09-01, 2026-09-30
 
     %% =======================
