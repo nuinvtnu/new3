@@ -39,12 +39,6 @@ gantt
     click nttt2 "Ổn huyện, tham dự (2 đợt)"
     click nttt3 "Ổn huyện, tham dự (3 đợt)"
 
-    %% --- Color coding by faculty ---
-    classDef cntt fill:#0077CC,stroke:#004B80,color:#fff
-    classDef ktcn fill:#B5651D,stroke:#8B4513,color:#fff
-    classDef ktqt fill:#009966,stroke:#006644,color:#fff
-    classDef nttt fill:#CC3366,stroke:#991F47,color:#fff
-
     class cntt1,cntt2,cntt3,cntt4,cntt5,cntt6 cntt
     class ktcn1,ktcn2 ktcn
     class ktqt1 ktqt
