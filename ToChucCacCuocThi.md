@@ -17,16 +17,16 @@ gantt
     EIIC + IoT Challenge: cntt5, 2026-08-01, 2026-08-31
     ICTU CTF Challenge: cntt6, 2026-09-01, 2026-09-30
     OSS + AI (Nguồn mở): cntt7, 2026-10-01, 2026-10-31
-    ICTU OJ Challenge (Lần 1): cntt8, 2026-04-01, 2026-04-30
+    ICTU OJ Challenge (L1): cntt8, 2026-04-01, 2026-04-30
     ICTU AI Challenge: cntt9, 2026-07-01, 2026-07-31
-    ICTU OJ Challenge (Lần 2): cntt10, 2026-09-01, 2026-09-30
+    ICTU OJ Challenge (L2): cntt10, 2026-09-01, 2026-09-30
 
     %% =====================
     %% KHOA KT&CN
     %% =====================
     section Khoa KT&CN
     Lái xe sinh thái: ktcn1, 2026-08-01, 2026-08-31
-    Robot Sumo đối khángM: ktcn2, 2026-09-01, 2026-09-30
+    RobotSumo đối kháng: ktcn2, 2026-09-01, 2026-09-30
     Vũ điệu ánh sáng: ktcn3, 2026-09-01, 2026-09-30
     Thiết kế vi mạch: ktcn4, 2026-10-01, 2026-10-31
     Robocon ABU ICTU 2026: ktcn5, 2026-10-01, 2026-10-31
