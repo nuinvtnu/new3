@@ -1,5 +1,6 @@
 ```mermaid
 %%{init: {'gantt': {'barHeight': 30, 'barGap': 10}}}%%
+gantt
     title ICTU: KẾ HOẠCH TỔ CHỨC CÁC CUỘC THI NĂM 2026
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%y
