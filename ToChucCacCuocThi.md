@@ -29,7 +29,7 @@ gantt
     RobotSumo đối kháng: ktcn2, 2026-09-01, 2026-09-30
     Vũ điệu ánh sáng: ktcn3, 2026-09-01, 2026-09-30
     Thiết kế vi mạch: ktcn4, 2026-10-01, 2026-10-31
-    Robocon ABU ICTU 2026: ktcn5, 2026-10-01, 2026-10-31
+    Robocon_ABU_2026: ktcn5, 2026-10-01, 2026-10-31
 
     %% =====================
     %% KHOA KT&QT
@@ -42,7 +42,7 @@ gantt
     %% KHOA NT&TT
     %% =====================
     section Khoa NT&TT
-    A&C's Talent Directors 2026: nttt1, 2026-10-01, 2026-10-31
+    A&C's TalentDirectors: nttt1, 2026-10-01, 2026-10-31
     Sáng tạo NT cùng AI: nttt2, 2026-11-01, 2026-11-30
 
     %% =====================
