@@ -15,11 +15,11 @@ gantt
     Programming Contest (2 lần)M: cntt3, 2026-03-01, 2026-10-31
     AI Golden Bell: cntt4, 2026-09-01, 2026-09-30
     EIIC + IoT Challenge: cntt5, 2026-08-01, 2026-08-31
-    ICTU CTF Challenge: cntt6, 2026-09-01, 2026-09-30
+    CTF Challenge: cntt6, 2026-09-01, 2026-09-30
     OSS + AI (Nguồn mở): cntt7, 2026-10-01, 2026-10-31
-    ICTU_OJ_Challenge (L1): cntt8, 2026-04-01, 2026-04-30
-    ICTU AI Challenge: cntt9, 2026-07-01, 2026-07-31
-    ICTU_OJ_Challenge (L2): cntt10, 2026-09-01, 2026-09-30
+    OJ_Challenge (L1): cntt8, 2026-04-01, 2026-04-30
+    AI Challenge: cntt9, 2026-07-01, 2026-07-31
+    OJ_Challenge (L2): cntt10, 2026-09-01, 2026-09-30
 
     %% =====================
     %% KHOA KT&CN
