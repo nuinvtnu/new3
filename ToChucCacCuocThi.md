@@ -13,8 +13,8 @@ gantt
 
     Sáng tạo Khởi nghiệp ICTU 2026 (PH KH-CN&HTQT) :org1, 2026-01-01, 2026-08-31
 
-ESDEV 2026 (Khoa CNTT)                         :org2, 2026-03-01, 2026-03-31
-IoT Hackathon 2026 (Khoa CNTT)                 :org3, 2026-03-01, 2026-03-31
+ESDEV 2026 (Khoa CNTT):org2, 2026-03-01, 2026-03-31
+IoT Hackathon 2026 (Khoa CNTT):org3, 2026-03-01, 2026-03-31
     AI Golden Bell 2026 (Khoa CNTT)                :org4, 2026-03-01, 2026-03-31
     Programming Contest (2 lần) (Khoa CNTT)        :org5, 2026-03-01, 2026-11-30
     ICTU OJ Challenge (2 lần) (Khoa CNTT)          :org6, 2026-05-01, 2026-11-30
