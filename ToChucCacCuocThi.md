@@ -1,5 +1,5 @@
 ```mermaid
-%%{init: {'gantt': { 'barWidth': 40, 'barHeight': 30, 'barGap': 6, 'todayMarker': '' }}}%%
+%%{init: {'gantt': { 'barWidth': 60, 'barHeight': 30, 'barGap': 6, 'todayMarker': '' }}}%%
 gantt
     title ICTU: KẾ HOẠCH TỔ CHỨC CÁC CUỘC THI NĂM 2026
     dateFormat  YYYY-MM-DD
