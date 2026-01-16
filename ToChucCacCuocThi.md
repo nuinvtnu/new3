@@ -7,9 +7,8 @@ gantt
 
     section Tổ chức cuộc thi
 
-    STKN ICTU 2026_Phòng KH-CN&HTQT      :ct1,  2026-01-01, 2026-08-31
-
-    ESDEV 2026                                 :ct2,  2026-03-01, 2026-03-31
+    Sáng tạo khởi nghiệp ICTU 2026 (Phòng KH-CN&HTQT)      :ct1,  2026-01-01, 2026-08-31
+    ESDEV 2026 (Khoa CNTT)                                 :ct2,  2026-03-01, 2026-03-31
     IoT Hackathon 2026 (Khoa CNTT)                         :ct3,  2026-03-01, 2026-03-31
     ICTU AI Golden Bell Challenge 2026 (Khoa CNTT)         :ct4,  2026-03-01, 2026-03-31
     Programming Contest (2 lần) (Khoa CNTT)                :ct5,  2026-03-01, 2026-11-30
