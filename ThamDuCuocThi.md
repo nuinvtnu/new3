@@ -22,6 +22,6 @@ gantt
     Kinh doanh số 2026 – 15M VNĐ                  :ktqt1, 2026-10-01, 30d
 
     section Khoa NT&TT
-    Triển lãm Mỹ thuật Thái Nguyên (3 đợt) – 12M VNĐ :nttt1, 2026-06-01, 2026-10-31
-    Triển lãm Mỹ thuật Tuyên Quang (2 đợt) – 8M VNĐ  :nttt2, 2026-05-01, 2026-09-30
-    Triển lãm Mỹ thuật khu vực Tây Bắc (3 đợt) – 15M VNĐ :nttt3, 2026-04-01, 2026-09-30
+    Triển lãm Mỹ thuật Thái Nguyên (3 đợt) – 12M VNĐ :nttt1, 2026-06-01, 2026-10-31, 30d
+    Triển lãm Mỹ thuật Tuyên Quang (2 đợt) – 8M VNĐ  :nttt2, 2026-05-01, 2026-09-30, 30d
+    Triển lãm Mỹ thuật khu vực Tây Bắc (3 đợt) – 15M VNĐ :nttt3, 2026-04-01, 2026-09-30, 30d
